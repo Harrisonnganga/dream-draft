@@ -2,12 +2,7 @@
 <link rel="stylesheet" href="vendors/linericon/style.css">
 
 <body>
-
-
 <?php include "partials/nav.php"; ?>
-
-
-
     <section class="banner_area">
         <div class="box_1620">
             <div class="banner_inner d-flex align-items-center">

@@ -1,8 +1,8 @@
 <?php
-$host = 'db'; // DDEV database host  
+$host = 'db'; 
 $db = 'portfolio'; 
-$user = 'db'; // DDEV user  
-$pass = 'db'; // DDEV password  
+$user = 'db'; 
+$pass = 'db'; 
 $charset = 'utf8mb4';  
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";  
